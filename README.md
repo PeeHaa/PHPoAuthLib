@@ -1,5 +1,8 @@
 PHPoAuthLib
 ===========
+
+This is a fork of the original [PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib) project which will have all the needless code removed, will target only recent versions of PHP, will make use of several composer packages instead of reinventing the wheel *and* will have a stable tagged release soon after the cleanup.
+
 PHPoAuthLib provides oAuth support in PHP 5.3+ and is very easy to integrate with any project which requires an oAuth client.
 
 [![Build Status](https://travis-ci.org/Lusitanian/PHPoAuthLib.png?branch=master)](https://travis-ci.org/Lusitanian/PHPoAuthLib)
